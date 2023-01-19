@@ -4,3 +4,5 @@ A simple application which can convert the amount of input from one currency to 
 API Key for the application is obtained from - "https://www.exchangerate-api.com/"
 \
 Languages Used - HTML, CSS and JS.
+\
+Demo Link - " https://akhilesh-18.github.io/Currency-Converter/"
